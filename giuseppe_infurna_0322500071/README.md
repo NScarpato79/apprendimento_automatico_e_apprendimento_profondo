@@ -1,0 +1,2 @@
+# apprendimento_automatico_e_apprendimento_profondo
+Elaborato Giuseppe Infurna, matricola: 0322500071
