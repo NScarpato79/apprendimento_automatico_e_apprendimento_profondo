@@ -1,0 +1,22 @@
+name: ai
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - nbformat
+  - nbconvert
+  - ipykernel
+  - tensorboard
+  - pytorch
+  - pip:
+      - shap
+      - lime
