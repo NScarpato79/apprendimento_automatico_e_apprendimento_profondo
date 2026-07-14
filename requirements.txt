@@ -1,7 +1,16 @@
-pandas==2.3.3
-scikit-learn==1.7.2
-matplotlib==3.10.7
-numpy==2.3.5
-seaborn==0.13.2
-nbformat==5.10.4
-reportlab==4.4.4
+# Dipendenze del progetto "Apprendimento Automatico e Apprendimento Profondo"
+# Versioni testate riportate nei commenti (Python 3.14 su Windows 11).
+
+numpy>=1.24          # testato: 2.4.6
+pandas>=1.5          # testato: 3.0.3
+matplotlib>=3.6      # testato: 3.11.0
+seaborn>=0.12        # testato: 0.13.2
+scikit-learn>=1.2    # testato: 1.9.0
+torch>=2.0           # testato: 2.13.0+cpu  (deep learning - Task 5a)
+shap>=0.44           # testato: 0.52.0      (spiegabilita' - Task 5b)
+
+# Per eseguire il notebook
+jupyter
+notebook
+nbformat
+nbconvert
